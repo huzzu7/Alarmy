@@ -22,6 +22,7 @@ Alarmy was built as an embedded design project with the goal of making alarms ha
 
 ```text
 Alarmy/
+├── media/      # Project photos / demo images
 ├── cad/        # Mechanical design files / 3D models
 ├── pcb/        # PCB design files
 └── src/
@@ -107,3 +108,10 @@ The long-term goal is to move away from multiple header-connected external modul
 
 ## Media
 
+Prototype photo:
+
+![Alarmy prototype](media/alarmy-prototype.png)
+
+UI screenshot:
+
+![Alarmy screenshot](media/alarmy-pcb.png)
