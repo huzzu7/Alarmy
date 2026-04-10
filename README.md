@@ -112,6 +112,6 @@ Prototype photo:
 
 ![Alarmy prototype](media/alarmy-prototype.png)
 
-UI screenshot:
+PCB screenshot:
 
 ![Alarmy screenshot](media/alarmy-pcb.png)
